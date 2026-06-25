@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 	    @RequestMapping("/")
 	    public String home() {
-	        return "축구 진짜 똥나오게 못하네";
+	        return "축구 진짜 똥나오게 못하네 홍명보 머하냐";
 	}
 }
