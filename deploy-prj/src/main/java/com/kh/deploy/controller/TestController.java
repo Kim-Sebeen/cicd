@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 	    @RequestMapping("/")
 	    public String home() {
-	        return "Deploy complate!";
+	        return "축구 진짜 똥나오게 못하네";
 	}
 }
